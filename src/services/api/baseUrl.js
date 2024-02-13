@@ -1,0 +1,1 @@
+export const BASE_URL = "https://qrsolutions-dev-ed.my.salesforce.com/services/data/v55.0/sobjects"
